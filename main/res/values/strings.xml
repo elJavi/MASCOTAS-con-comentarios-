@@ -1,0 +1,9 @@
+<resources>
+    <item name="tituloBarra" type="string">Mascotas</item>
+
+    <!--Titulo de la barra -->
+    <string name="app_name">Mascotas</string>
+
+    <!--Titulo de la barra segunda actividad-->
+    <string name="mascotasGustadas">Preferidas</string>
+</resources>

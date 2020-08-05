@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mAbout"
+        android:title="About"
+        android:orderInCategory="100"
+        >
+
+    </item>
+    <item
+        android:id="@+id/mSettings"
+        android:title="Settings"
+        android:orderInCategory="101"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/mActionBar"
+        android:icon="@mipmap/estrella"
+        android:orderInCategory="103"
+        android:title="ActionViewEstrella"
+        app:showAsAction="always">
+
+    </item>
+</menu>
